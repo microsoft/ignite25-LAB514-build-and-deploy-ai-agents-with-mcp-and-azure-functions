@@ -48,6 +48,8 @@ The lab walks you through building **Snippy**, an intelligent code snippet manag
 - **Vector Search** – Semantic code retrieval using Azure Cosmos DB DiskANN with OpenAI embeddings
 - **Monitoring & Observability** – Track orchestrations in real-time with DTS dashboard
 
+![Snippy Architecture](https://raw.githubusercontent.com/Azure-Samples/snippy/main/images/Snippy-Architecture.png)
+
 ### 🌟 Microsoft Learn MCP Server
 
 [![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
