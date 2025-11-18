@@ -8,8 +8,8 @@
 
 ## 🔥LAB514: Build and deploy AI agents with MCP and Azure Functions
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
+[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
+[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
 
 ### Session Description
 
@@ -64,7 +64,7 @@ For more information, setup instructions for other dev clients, and to post comm
 |:-------------------|:----------------------------------|:-------------------|
 | Lab Repository | [https://aka.ms/functions-mcp-lab](https://aka.ms/functions-mcp-lab) | Complete lab instructions and source code (Snippy) |
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_lab514_github_cnl) | Links to all repos for Ignite 2025 Sessions |
-| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)| Connect with the Azure AI Foundry Community! |
+| Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_lab514_github_cnl) | Continue learning on Microsoft Learn |
 | Azure Functions Documentation | [https://learn.microsoft.com/azure/azure-functions/](https://learn.microsoft.com/azure/azure-functions/?ocid=ignite25_lab514_github_cnl) | Official Azure Functions documentation |
 | Microsoft Agent Framework | [https://learn.microsoft.com/agent-framework/](https://learn.microsoft.com/agent-framework/?ocid=ignite25_lab514_github_cnl) | Documentation for Microsoft Agent Framework |
